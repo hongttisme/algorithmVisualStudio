@@ -2,8 +2,10 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int printing() {
+    cout << "testing";
     return 1;
 }
 
